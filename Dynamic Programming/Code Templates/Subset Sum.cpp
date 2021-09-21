@@ -15,8 +15,7 @@ int main()
     long long dp[n+1][sum+1];
     memset(dp,0,sizeof(dp));
     for(i=0;i<=n;i++)dp[i][0]=1;
-    for(i=0;i<=sum;i++)dp[0][i]=1;
-
+ 
     for(i=1;i<=n;i++)
     {
         for(j=1;j<=sum;j++)
