@@ -2,7 +2,7 @@
 
 Idea:
 
-DPi will store the maximum ways to create money i.
+DPi will store the maximum combinations to create money i.
 
 Source Code:
 
@@ -77,7 +77,7 @@ Similar Problems:
 
 1. https://codeforces.com/problemset/problem/474/D
 
-2. https://cses.fi/problemset/task/1636 (reverse i,j)
+2. https://cses.fi/problemset/task/1636 (reverse i,j)(no of ways)
 
 3. https://atcoder.jp/contests/dp/tasks/dp_c
 
